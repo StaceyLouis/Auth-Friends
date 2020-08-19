@@ -1,6 +1,7 @@
 
 import React from 'react';
 import {Login} from './components/login'
+import Home from './components/Homepage'
 
 
 import './App.css';
@@ -11,6 +12,7 @@ function App() {
     <div className="App">
   <h1>HI</h1>
   <Login/>
+  <Home/>
     </div>
   );
 }

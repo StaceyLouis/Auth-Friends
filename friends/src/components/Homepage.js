@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link  } from "react-router-dom";
 
-function Nav(props){
+function HomePage(props){
 
     return(
         <div>
@@ -12,4 +12,4 @@ function Nav(props){
     )
 }
 
-export default Nav;
+export default HomePage;

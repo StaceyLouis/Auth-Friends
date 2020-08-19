@@ -41,7 +41,7 @@ export function Login(props){
             type="text"
             value={formValues.password}
             onChange={onChange}
-            name="password" />
+            name="password" /> <br/>
     <button>Login</button>
         </form>
     )
